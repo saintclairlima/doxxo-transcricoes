@@ -1,0 +1,8 @@
+# Antes de executar o install com esse requirements, fazer em separado um pip install 
+# com uma das linhas abaixo
+# pip install torch --index-url https://download.pytorch.org/whl/cpu  
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu130
+python-dotenv
+chromadb
+fastapi
+google-genai

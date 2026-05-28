@@ -1,0 +1,15 @@
+{
+    "nome_banco_vetorial": "banco_vetorial",
+    "colecoes": [
+        {
+            "uuid": "14ec3dd9-52a0-4043-bf3a-fa01c553c857",
+            "nome": "transcricoes_gemini_emb_2",
+            "quantidade_max_palavras_por_documento": null,
+            "hnsw:space": "cosine",
+            "funcao_embeddings": {
+                "nome_modelo": "gemini-embedding-2",
+                "instrucao": null
+            }
+        }
+    ]
+}
